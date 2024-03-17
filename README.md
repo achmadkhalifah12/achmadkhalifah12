@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @achmadkhalifah12
-- 👀 I’m interested in Android Developer
-- 🌱 I’m currently learning Flutter and Dart
+- 👀 I’m interested in Web Developer
+- 🌱 I’m currently learning Html,Css, Javascript and PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me achmadkhalifah12@gmail.com
 
