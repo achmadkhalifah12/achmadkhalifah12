@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @achmadkhalifah12
-- 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning Html,Css, Javascript and PHP
+- 👀 I’m Cyber Security Enthusiast | Master's Student in Computer Science Management and Science University | MTCNA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me achmadkhalifah12@gmail.com
 
